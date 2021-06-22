@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+   background-color:cyan;
+ }
+ #Ammu{
+   font-style:italic;
+ }
+ #direction{
+   width:700px;
+ }
+ #Appu{
+   width:700px;
+ }
+ #tree,#code,#man,#boy,#pen{
+   width:400px;
+ }
+ #book{
+   width:200px;
+ }
